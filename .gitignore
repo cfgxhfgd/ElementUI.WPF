@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+
+# Ride
+.idea/
+
+# 编译
+bin/
+obj/
+
+# 常见自动生成文件
+*.log
+*.swp
+*.swo
